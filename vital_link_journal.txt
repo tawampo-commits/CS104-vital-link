@@ -1,5 +1,5 @@
 Patient: Bilbo Baggins
-DOB: 2890-09-22
+DOB: 2890-09-22 dod
 MRN: 123456
 Allergies: None
 Medications: Herbal tea as needed for relaxation
